@@ -1,7 +1,7 @@
 # Machine-Learning-Handwritte-Notes
 
 <hr style="border:1px solid black"> </hr>
-Entire Machine Learning Hand Written Notes
+Machine Learning Hand Written Notes
 <hr style="border:1px solid black"> </hr>
 
 ## > Machine Learning Flowchart
